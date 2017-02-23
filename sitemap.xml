@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/post/001/</loc>
+    <loc>https://kidonchu.github.io/can-i-convince-you-to-use-vim/post/001/</loc>
     <lastmod>2017-02-22T21:41:18-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://kidonchu.github.io/can-i-convince-you-to-use-vim/</loc>
     <lastmod>2017-02-22T21:41:18-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/post/</loc>
+    <loc>https://kidonchu.github.io/can-i-convince-you-to-use-vim/post/</loc>
     <lastmod>2017-02-22T21:41:18-06:00</lastmod>
     <priority>0</priority>
   </url>
